@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love riding motorcycles, I currently ride a KTM Duke 390 2021
 - 😻 Check out the latest web3 project I created: [urToken.org](https://urtoken.org)
 - 😻 Check out the latest productivity project I created: [tivated.com](https://tivated.com)
-- 😻 Check out the latest web scrapping project I created: [mabob.co.ke](https://mabob.co.ke)
+- 😻 Check out the latest web scrapping project I created: [manews.vercel.app](https://manews.vercel.app)
 - 😻 Check out the latest FastAPI  random project I created: [randomproject.info](https://randomproject.info)
 
 ### Connect with me:
