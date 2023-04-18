@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning blockchain development, fintech, frontend development with VueJs
 - 👯 I’m looking to collaborate with other web3 buildlers, 
-- 🥅 2022 Goals: Build products that provide value
-- ⚡ Fun fact: I love riding motorcycles, I currently ride a KTM Duke 390 2021
+- 🥅 2023 Goals: Bring ideas to life
+- ⚡ Fun fact: I love riding motorcycles, I currently ride a KTM
 - 😻 Check out the latest web3 project I created: [urToken.org](https://urtoken.org)
 - 😻 Check out the latest productivity project I created: [tivated.com](https://tivated.com)
 - 😻 Check out the latest web scrapping project I created: [manews.vercel.app](https://manews.vercel.app)
@@ -16,8 +16,8 @@
 [![website](./img/globe-light.svg)](https://github.com/freelancer254/freelancer254/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://github.com/freelancer254/freelancer254/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/urtoken_org#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/urtoken_org#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/roba_mutua#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/roba_mutua#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/rmutua#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rmutua#gh-dark-mode-only)
