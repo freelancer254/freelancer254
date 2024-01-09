@@ -3,8 +3,8 @@
 ## I'm a software engineer, web3 security advocate!!
 
 - 🌱 I’m currently learning blockchain development, fintech, frontend development with VueJs
-- 👯 I’m looking to collaborate with other web3 buildlers, 
-- 🥅 2023 Goals: Bring ideas to life
+- 👯 I’m looking to collaborate with other fintech infrastructure builders, 
+- 🥅 2024 Goals: Make it happen!
 - ⚡ Fun fact: I love riding motorcycles, I currently ride a KTM
 - 😻 Check out the latest web3 project I created: [urToken.org](https://urtoken.org)
 - 😻 Check out the latest productivity project I created: [tivated.com](https://tivated.com)
